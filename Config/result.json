@@ -1,0 +1,49 @@
+{
+    "/feed/list":[{
+        "success":{
+
+          "errorCode": 0,
+          "errorMsg": "成功",
+          "list": [{
+              "id": 28271,
+              "canEdit": true,
+              "text": "驳回驳回驳回",
+              "video": {
+                  "id": 10532,
+                  "url": "http://timingtest-imgservice.huiian.com/video/1_1591963451_O-Vy3Yya6OjfxpnpAmtIsIRPwIY2KnnN.mp4",
+                  "originalUrl": "http://timingtest-imgservice.huiian.com/video/1_1591963451_O-Vy3Yya6OjfxpnpAmtIsIRPwIY2KnnN.mp4",
+                  "androidUrl": "http://timingtest-imgservice.huiian.com/video/1_1591963451_O-Vy3Yya6OjfxpnpAmtIsIRPwIY2KnnN.mp4",
+                  "iosUrl": "http://timingtest-imgservice.huiian.com/video/1_1591963451_O-Vy3Yya6OjfxpnpAmtIsIRPwIY2KnnN.mp4",
+                  "gifUrl": "http://timingtest-imgservice.kr-cell.com/image/1_1591963487_8WMoSvZ4QBlGujU-SFdMeiZKAiCydIzt.png?x-oss-process=image/resize,w_720",
+                  "hasGif": true,
+                  "cover": {
+                      "id": 638951,
+                      "width": 1920,
+                      "fileName": "1_1591963487_8WMoSvZ4QBlGujU-SFdMeiZKAiCydIzt.png",
+                      "height": 1080,
+                      "isGif": false,
+                      "url": "http://timingtest-imgservice.kr-cell.com/image/1_1591963487_8WMoSvZ4QBlGujU-SFdMeiZKAiCydIzt.png",
+                      "shareImgUrl": "http://timingtest-imgservice.kr-cell.com/image/1_1591963487_8WMoSvZ4QBlGujU-SFdMeiZKAiCydIzt.png?x-oss-process=image/resize,m_fill,w_300,h_300"
+                  },
+                  "timeLen": 0,
+                  "fileSize": 0,
+                  "fileName": "1_1591963451_O-Vy3Yya6OjfxpnpAmtIsIRPwIY2KnnN.mp4",
+                  "download": "http://timingtest-imgservice.huiian.com/video/1_1591963451_O-Vy3Yya6OjfxpnpAmtIsIRPwIY2KnnN.mp4"
+              },
+              "topic": null,
+              "auditState": 1,
+              "refuseRason": "驳回驳回驳回",
+              "originalType": 0,
+              "createTime": 1591963489,
+              "originalFileName": "",
+              "classification": null,
+              "label": "",
+              "labelId": ""
+          }],
+          "isEnd": true,
+          "total": 1,
+          "result": true
+      }
+
+    }]
+}
